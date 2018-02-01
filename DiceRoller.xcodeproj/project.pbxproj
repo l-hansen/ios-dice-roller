@@ -17,7 +17,6 @@
 		EBB1F85220235415002C47A6 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBB1F85120235415002C47A6 /* Utils.swift */; };
 		EBB1F85320235415002C47A6 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBB1F85120235415002C47A6 /* Utils.swift */; };
 		EBB1F85420235415002C47A6 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBB1F85120235415002C47A6 /* Utils.swift */; };
-		EBB1F8562023546B002C47A6 /* UtilsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBB1F8552023546B002C47A6 /* UtilsTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,7 +51,6 @@
 		EBB1F8432023539A002C47A6 /* DiceRollerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiceRollerUITests.swift; sourceTree = "<group>"; };
 		EBB1F8452023539A002C47A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EBB1F85120235415002C47A6 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
-		EBB1F8552023546B002C47A6 /* UtilsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UtilsTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,7 +117,6 @@
 			children = (
 				EBB1F8382023539A002C47A6 /* DiceRollerTests.swift */,
 				EBB1F83A2023539A002C47A6 /* Info.plist */,
-				EBB1F8552023546B002C47A6 /* UtilsTests.swift */,
 			);
 			path = DiceRollerTests;
 			sourceTree = "<group>";
@@ -279,7 +276,6 @@
 			files = (
 				EBB1F8392023539A002C47A6 /* DiceRollerTests.swift in Sources */,
 				EBB1F85320235415002C47A6 /* Utils.swift in Sources */,
-				EBB1F8562023546B002C47A6 /* UtilsTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
