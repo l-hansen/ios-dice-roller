@@ -26,7 +26,7 @@ class UtilsTests: XCTestCase {
         // Use XCTAssert and related functions to verify your tests produce the correct results.
         for _ in 1...10 {
             let result = roll1D6()
-            XCTAssert(result > 0)
+            XCTAssert(result < 0)
             XCTAssert(result <= 6)
         }
     }
